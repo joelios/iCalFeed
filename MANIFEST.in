@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include icalfeed *.css
+recursive-include icalfeed *.csv
+recursive-include icalfeed *.html
+recursive-include icalfeed *.ico
+recursive-include icalfeed *.js
+recursive-include icalfeed *.json
+recursive-include icalfeed *.md
+recursive-include icalfeed *.png
+recursive-include icalfeed *.py
+recursive-include icalfeed *.svg
+recursive-include icalfeed *.txt
+recursive-exclude icalfeed *.pyc
