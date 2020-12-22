@@ -16,7 +16,7 @@
   },
   {
    "fieldname": "secret",
-   "fieldtype": "Password",
+   "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Secret",
    "reqd": 1
